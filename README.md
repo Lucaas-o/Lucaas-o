@@ -2,11 +2,11 @@
 
 <h1 align="center">Lucaas-o</h1>
 <a href="https://github.com/Lucaas-o">GitHub</a> |
-<a href="https://discord.gg/raducord">Discord</a>
+<a href="https://discord.gg/wDGyJUtd5Q">Discord</a>
 
 📬 **Contact Me**
 - Instagram: [@lucaass.o__](https://www.instagram.com/lucaass.o__)
-- [Join my Discord](https://discord.gg/wDGyJUtd5Q)
+- Discord : lucass.22
 
 🌐 **About Me**
 - **Languages Spoken:** 
