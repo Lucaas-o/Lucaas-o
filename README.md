@@ -56,10 +56,13 @@
 
 <h2 align="center">Currently Listening To 🎧</h2>  
 <p align="center">
-  <em>Vibing to some lo-fi beats while coding—or maybe a little Tame Impala?</em>  
+  <em>Vibing to some Kid Cudi songs while coding—or maybe a little Tame Impala?</em>  
 </p>
 
 <p align="center">
+  <em>Check my public playlist!</em>
+  <br>
+  <br>
   <a href="https://open.spotify.com/playlist/5xXqCvvy7szKrVtqeXOLie?si=CM4sa6wSQPm9gpsOTZUXjQ">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
