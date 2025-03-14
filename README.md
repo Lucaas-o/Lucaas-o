@@ -10,9 +10,9 @@
   </a>
 </p>
 
-<p align="center">
+<center>
   ![Profile Views](https://komarev.com/ghpvc/?username=Lucaas-o&color=blueviolet&labelColor=black)
-</p>
+</center>
 
 ---
 
@@ -57,7 +57,7 @@
 
 <h2 align="center">My Coding Activity</h2>  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucaas_o&theme=dracula" />
   <em>WakaTime stats coming soon!</em>
 </p>
 
