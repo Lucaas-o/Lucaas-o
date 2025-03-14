@@ -6,15 +6,25 @@
   <a href="https://discord.gg/wDGyJUtd5Q">Discord</a>
 </p>
 
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Lucaas-o&color=brightgreen)
+</p>
+
 ---
 
 📬 **Let’s Connect**  
-- **Instagram:** [@lucaass.o__](https://www.instagram.com/lucaass.o__)  
-- **Discord:** lucass.22  
+<p align="center">
+  <a href="https://www.instagram.com/lucaass.o__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/wDGyJUtd5Q">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 🌍 **About Me**  
 - **Languages I Speak:** Spanish • French • English  
-- **Fun Fact:** I’m a multilingual coder chasing clean code and cool projects!  
+- **Fun Fact:** I’m a multilingual coder passionate about clean code, cool projects, and great music!  
 - **I’m obsessed with music** 🎶  
 
 🔧 **My Tech Stack**  
@@ -27,9 +37,9 @@
   - Create a Weather App  
   - Wrap up my Expense Tracker  
 - **Current Projects:**  
-  - [Cosmic-Bouncer](https://github.com/alicelee2735/Cosmic-Bouncer) (Collab with alicelee2735)  
-  - Discord Bot (JavaScript)  
-  - Password Generator (HTML, CSS, JS)  
+  - [Cosmic-Bouncer](https://github.com/alicelee2735/Cosmic-Bouncer) (A space-themed game built with JavaScript and Phaser.js - Collab with alicelee2735)  
+  - Discord Bot (JavaScript) - A bot for automating server tasks and fun interactions  
+  - Password Generator (HTML, CSS, JS) - A tool for generating secure passwords  
 - *Explore my repositories for more!*
 
 ---
@@ -37,19 +47,27 @@
 <h2 align="center">Skills</h2>  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,vscode,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,js,vscode,html,css,git" />
   </a>
+</p>
+
+<h2 align="center">My Coding Activity</h2>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=dracula" />
 </p>
 
 <h2 align="center">My Top Languages</h2>  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaas-o&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaas-o&layout=compact&theme=dracula" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucaas-o&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucaas-o&show_icons=true&theme=dracula" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucaas-o&theme=dracula" />
 </p>
 
 ---
@@ -67,6 +85,5 @@
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
 
 ![Footer](./2.png)
