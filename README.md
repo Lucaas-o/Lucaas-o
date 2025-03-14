@@ -53,7 +53,7 @@
 
 <h2 align="center">My Coding Activity</h2>  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucaas-o&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucaas_o&theme=dracula" />
 </p>
 
 <h2 align="center">My Top Languages</h2>  
