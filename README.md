@@ -2,12 +2,16 @@
 
 <h1 align="center">Hey, I’m Lucaas-o! 👋</h1>
 <p align="center">
-  <a href="https://github.com/Lucaas-o">GitHub</a> •
-  <a href="https://discord.gg/wDGyJUtd5Q">Discord</a>
+  <a href="https://github.com/Lucaas-o">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/wDGyJUtd5Q">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Lucaas-o&label=Profile+Views&color=blueviolet&labelColor=black)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Lucaas-o&color=blueviolet&labelColor=black)
 </p>
 
 ---
@@ -15,7 +19,7 @@
 📬 **Let’s Connect**  
 <p align="center">
   <a href="https://www.instagram.com/lucaass.o__">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.gg/wDGyJUtd5Q">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -37,9 +41,9 @@
   - Create a Weather App  
   - Wrap up my Expense Tracker  
 - **Current Projects:**  
-  - [Cosmic-Bouncer](https://github.com/alicelee2735/Cosmic-Bouncer) (A space-themed game built with JavaScript and Phaser.js - Collab with alicelee2735)  
-  - Discord Bot (JavaScript) - A bot for automating server tasks and fun interactions  
-  - Password Generator (HTML, CSS, JS) - A tool for generating secure passwords  
+  - 🌌 [Cosmic-Bouncer](https://github.com/alicelee2735/Cosmic-Bouncer) (A space-themed game built with JavaScript - Collab with alicelee2735)  
+  - 🤖 Discord Bot (JavaScript) - A bot for automating server tasks and fun interactions  
+  - 🔒 Password Generator (HTML, CSS, JS) - A tool for generating secure passwords  
 - *Explore my repositories for more!*
 
 ---
@@ -53,7 +57,8 @@
 
 <h2 align="center">My Coding Activity</h2>  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucaas_o&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=dracula" />
+  <em>WakaTime stats coming soon!</em>
 </p>
 
 <h2 align="center">My Top Languages</h2>  
