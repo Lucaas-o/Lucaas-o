@@ -10,9 +10,7 @@
   </a>
 </p>
 
-<center>
-  ![Profile Views](https://komarev.com/ghpvc/?username=Lucaas-o&color=blueviolet&labelColor=black)
-</center>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Lucaas&color=blueviolet)
 
 ---
 
