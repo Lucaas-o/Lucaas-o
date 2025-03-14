@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Lucaas-o&color=brightgreen)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Lucaas-o&label=Profile+Views&color=blueviolet&labelColor=black)
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 <h2 align="center">My Coding Activity</h2>  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucaas-o&theme=dracula" />
 </p>
 
 <h2 align="center">My Top Languages</h2>  
