@@ -44,9 +44,17 @@
 
 ## **📊 Coding Activity**  
 <p align="center">
+  <a href="https://wakatime.com/@lucaas_o">
+    <img src="https://wakatime.com/badge/user/lucaas_o.svg" alt="Total coding time on WakaTime" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucaas_o&theme=dracula" />
   <em>WakaTime stats coming soon!</em>
 </p>
+
+---
 
 ## **🔝 Top Languages**  
 <p align="center">
